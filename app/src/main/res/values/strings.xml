@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eggs Social</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_contraseña">Contraseña</string>
+    <string name="txt_email">Email</string>
+    <string name="btn_iniciosesion">Iniciar Sesion</string>
+    <string name="btn_registrarse">Registrarse</string>
+</resources>
